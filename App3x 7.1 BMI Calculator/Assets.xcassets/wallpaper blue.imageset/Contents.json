@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "majid-gheidarlou-ikrbS9SOQlc-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "majid-gheidarlou-ikrbS9SOQlc-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "majid-gheidarlou-ikrbS9SOQlc-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
